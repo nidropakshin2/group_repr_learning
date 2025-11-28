@@ -1,2 +1,2 @@
-# group_repr_learning
+# Group Representation Learning
 Machine Learning approach to group representation finding 
